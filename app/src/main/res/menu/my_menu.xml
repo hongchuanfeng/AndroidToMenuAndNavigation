@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@android:drawable/ic_lock_lock"
+        android:title="移动" />
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@android:drawable/ic_menu_always_landscape_portrait"
+        android:title="旋转" />
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@android:drawable/editbox_dropdown_light_frame"
+        android:title="缩放" />
+</menu>
